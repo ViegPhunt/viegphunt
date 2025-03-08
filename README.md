@@ -1,13 +1,14 @@
 <div align="center">
-    <img src="gradient.png" width="100%" alt="Gradient image"/>
+    <img src="img/cute-cat-typing.gif" width="30%">
 </div>
-<img />
 
 ###
 
 <h1 align="Center">👨‍💻 About Me</h1>
 <p align="left">🤝 Hey! I'm Viet, aka Fam.<br>🐥 Tech, fashion and music lover.</p>
-<img />
+<div align="center">
+    <img src="img/gradient.png" width="75%" alt="Gradient image"/>
+</div>
 
 ###
 
@@ -47,6 +48,9 @@
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
+</div>
+<div align="center">
+    <img src="img/gradient.png" width="75%" alt="Gradient image"/>
 </div>
 
 ###
