@@ -1,12 +1,5 @@
 <div align="center">
-    <div class="gradient-line"></div>
-    <style>
-        .gradient-line {
-            width: 100%;
-            height: 6px;
-            background: linear-gradient(90deg, rgba(139,233,253,1) 0%, rgba(255,143,199,1) 100%);
-    }
-    </style>
+    <div style="width: 100%; height: 6px; background: linear-gradient(90deg, rgba(139,233,253,1) 0%, rgba(255,143,199,1) 100%);"></div>
 </div>
 
 ###
