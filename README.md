@@ -1,16 +1,13 @@
 <div align="center">
-    <div style="width: 100%; height: 6px; background: linear-gradient(90deg, rgba(139,233,253,1) 0%, rgba(255,143,199,1) 100%);"></div>
+    <img src="gradient.png" width="100%" alt="Gradient image"/>
 </div>
 
 ###
 
 <div align="center">
-    <a href="https://facebook.com/phung.viet.68" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="Facebook logo"  />
-    </a>
-    <a href="https://instagram.com/Phunt_Vieg_" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Facebook logo"  />
-    </a>
+    <img href="https://facebook.com/phung.viet.68" target="_blank" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="Facebook logo"/>
+    <img width="12" />
+    <img href="https://instagram.com/Phunt_Vieg_" target="_blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Facebook logo"/>
 </div>
 
 ###
