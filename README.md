@@ -24,19 +24,19 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="42" height="42" />
-    <img width="12" />
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
-    <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-    <img width="12" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
+    <img width="12"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
 </p>
 <img />
 
@@ -44,8 +44,7 @@
 
 <h2 align="center">🔥 My Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" aligh="left" height="150px" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" aligh="left" height="150px" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="streak graph"/>
 </div>
 <div align="center">
     <img src="img/gradient.png" width="75%" alt="Gradient image"/>
