@@ -1,16 +1,10 @@
 <div align="center">
     <div class="gradient-line"></div>
     <style>
-        @keyframes bg-animation {
-            0% {background-position: right}
-            100% {background-position: left}
-        }
         .gradient-line {
             width: 100%;
             height: 6px;
-            background-size: 300%;
-            background-image: linear-gradient(90deg, rgba(139,233,253,1) 0%, rgba(206,126,255,1) 32%, rgba(255,143,199,1) 68%, rgba(255,173,121,1) 100%);
-            animation: bg-animation 3s infinite alternate;
+            background: linear-gradient(90deg, rgba(139,233,253,1) 0%, rgba(255,143,199,1) 100%);
     }
     </style>
 </div>
@@ -63,11 +57,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
 </div>
 
 ###
