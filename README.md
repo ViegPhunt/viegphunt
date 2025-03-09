@@ -5,7 +5,7 @@
 ###
 
 <h1 align="Center">👨‍💻 About Me</h1>
-<p align="center">🤝 Hey! I'm Viet, aka Fam.<br>🐥 Tech, fashion and music lover.</p>
+<p align="center">🤝 Hey! I'm Viet, aka Fam.<br>🐥 Tech, fashion and music!</p>
 <div align="center">
     <img src="img/gradient.png" width="75%" alt="Gradient image"/>
 </div>
