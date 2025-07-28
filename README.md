@@ -30,13 +30,25 @@
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/>
     <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="cplusplus" width="42" height="42"/>
     <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tmux/tmux-original.svg" alt="bash" width="42" height="42"/>
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
     <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="42" height="42"/>
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/>
     <img width="12"/>
