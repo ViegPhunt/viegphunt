@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-    <img src="img/gradient.png" width="75%" alt="Gradient image"/>
+    <img src="img/gradient.png" width="30%" alt="Gradient image"/>
 </div>
 
 ###
