@@ -4,11 +4,14 @@
 
 ###
 
-<h1 align="Center">👨‍💻 About Me</h1>
-<p align="center">🤝 Hey! I'm Viet, aka Fam.</p>
 <div align="center">
     <img src="img/gradient.png" width="75%" alt="Gradient image"/>
 </div>
+
+###
+
+<h1 align="Center">👨‍💻 About Me</h1>
+<p align="center">🤝 Hey! I'm Viet, aka Fam.</p>
 
 ###
 
@@ -20,7 +23,6 @@
     <img width="12" />
     <a href="https://t.me/viegphunt" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=Telegram&logoColor=white" height="25" alt="Telegram logo"/></a>
 </p>
-<img />
 
 ###
 
@@ -28,6 +30,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="streak graph"/>
 </div>
+
+###
+
 <div align="center">
     <img src="img/gradient.png" width="75%" alt="Gradient image"/>
 </div>
