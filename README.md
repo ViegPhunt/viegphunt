@@ -23,16 +23,3 @@
 </p>
 
 ###
-
-<h2 align="center">🔥 My Stats</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViegPhunt&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="streak graph"/>
-</div>
-
-###
-
-<div align="center">
-    <img src="img/gradient.png" width="75%" alt="Gradient image"/>
-</div>
-
-###
