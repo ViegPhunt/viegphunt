@@ -22,4 +22,8 @@
     <a href="https://t.me/viegphunt" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=Telegram&logoColor=white" height="25" alt="Telegram logo"/></a>
 </p>
 
+<div align="center">
+    <img src="img/gradient.png" width="75%" alt="Gradient image"/>
+</div>
+
 ###
